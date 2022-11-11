@@ -1,0 +1,69 @@
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Integrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-Unaj\Desktop\Integrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Integrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Integrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Alumnos-Unaj\Desktop\Integrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Integrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\Integrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\C#\Integrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\Integrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\C#\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Win\Desktop\C#\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Nueva carpeta\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-Unaj\Desktop\Nueva carpeta\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Nueva carpeta\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Nueva carpeta\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Alumnos-Unaj\Desktop\Nueva carpeta\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Nueva carpeta\IntegradorFinal\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegrador\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\C#\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Win\Desktop\C#\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\C#\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Win\Desktop\C#\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorBiulder\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\Clase\TrabajoIntegradorNuevo\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegradorCasiCompleto\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\C#\TrabajoIntegradorCasiCompleto\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegradorCasiCompleto\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Win\Desktop\C#\TrabajoIntegradorCasiCompleto\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\Win\Desktop\C#\TrabajoIntegradorCasiCompleto\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Win\Desktop\C#\TrabajoIntegradorCasiCompleto\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
